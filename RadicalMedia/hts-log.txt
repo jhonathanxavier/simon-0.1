@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 May 2023 21:41:31 at https://www.radicalmedia.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://www.radicalmedia.com -O1 "C:\Users\Jhonathan\Desktop\template\RadicalMedia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:15:52	Error: 	"Not Found" (404) at link https://www.radicalmedia.com/404 (from https://www.radicalmedia.com/work/acura-electric-new-world-same-energy)
+23:23:08	Warning: 	Link https://www.radicalmedia.com/work/the-creators-project-the-treachery-of-sanctuary?tag=post-production not scanned (follow robots meta tag)
+23:33:06	Warning: 	Link https://www.radicalmedia.com/work/the-creators-project-the-treachery-of-sanctuary not scanned (follow robots meta tag)
+23:43:44	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:43:44	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:44:25	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:44:25	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:47:29	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:47:29	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:47:30	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:47:30	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:47:55	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:47:55	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:47:56	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:47:56	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:51:01	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:51:01	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:51:09	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/storm-hansen (loop to same filename)
+23:51:09	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/storm-hansen
+23:52:02	Warning: 	Moved Temporarily for https://www.radicalmedia.com/directors/dave-meyers/
+23:52:02	Warning: 	File has moved from https://www.radicalmedia.com/directors/dave-meyers/ to /us/directors/dave-meyers/
+23:54:42	Warning: 	Moved Temporarily for https://www.radicalmedia.com/us/directors/dave-meyers/
+23:54:42	Warning: 	File has moved from https://www.radicalmedia.com/us/directors/dave-meyers/ to /us/directors/dave-meyers?reel=commercial
+00:12:04	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/luc-schurgers (loop to same filename)
+00:12:04	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/luc-schurgers
+00:13:58	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/luc-schurgers (loop to same filename)
+00:13:58	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/luc-schurgers
+00:13:58	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/luc-schurgers (loop to same filename)
+00:13:58	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/luc-schurgers
+00:16:20	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/luc-schurgers (loop to same filename)
+00:16:20	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/luc-schurgers
+00:21:17	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/omar-bassam (loop to same filename)
+00:21:17	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/omar-bassam
+00:23:02	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/omar-bassam (loop to same filename)
+00:23:02	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/omar-bassam
+00:23:02	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/omar-bassam (loop to same filename)
+00:23:02	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/omar-bassam
+00:24:53	Warning: 	Unable to test https://www.radicalmedia.com/us/directors/omar-bassam (loop to same filename)
+00:24:53	Warning: 	link is probably looping, type unknown, aborting: https://www.radicalmedia.com/us/directors/omar-bassam
+00:25:00	Error: 	"Service Unavailable" (503) at link https://www.radicalmedia.com/work/
+HBO
+How To Make It In America
+/directors/josh-xander (from https://www.radicalmedia.com/work/twitter-world-cup?tag=commercials)
+00:26:07	Error: 	"Service Unavailable" (503) at link https://www.radicalmedia.com/us/work/
+HBO
+How To Make It In America
+/directors/josh-xander (from https://www.radicalmedia.com/us/work/twitter-world-cup?tag=commercials&id=5a4e8e4c2ce5ac0e008b673d)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 45 minutes 46 seconds : 4325 links scanned, 4319 files written (442196308 bytes overall) [88132400 bytes received at 8861 bytes/sec], 442122063 bytes transferred using HTTP compression in 4301 files, ratio 17%, 262.3 requests per connection
+(3 errors, 38 warnings, 0 messages)
